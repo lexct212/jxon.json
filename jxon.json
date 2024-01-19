@@ -1,0 +1,29 @@
+{
+  "person": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zipCode": "12345"
+    },
+    "emails": [
+      "john.doe@email.com",
+      "john.doe2@email.com"
+    ],
+    "isStudent": false
+  },
+  "courses": [
+    {
+      "title": "Introduction to Programming",
+      "code": "CS101",
+      "instructor": "Professor Smith"
+    },
+    {
+      "title": "Web Development",
+      "code": "WEB101",
+      "instructor": "Dr. Johnson"
+    }
+  ]
+}
