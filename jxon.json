@@ -1,4 +1,1 @@
-{
-  "name" : "Tony",
-  "age" : 100
-}
+{"name": "Tony", "age": 100, "occupation": "Inventor"}
