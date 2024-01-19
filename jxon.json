@@ -1,29 +1,4 @@
 {
-  "person": {
-    "firstName": "Drex",
-    "lastName": "Lex",
-    "age": 55,
-    "address": {
-      "street": "123 Main St",
-      "city": "Anytown",
-      "zipCode": "12345"
-    },
-    "emails": [
-      "john.doe@email.com",
-      "john.doe2@email.com"
-    ],
-    "isStudent": false
-  },
-  "courses": [
-    {
-      "title": "Introduction to Programming",
-      "code": "CS101",
-      "instructor": "Professor Smith"
-    },
-    {
-      "title": "Web Development",
-      "code": "WEB101",
-      "instructor": "Dr. Johnson"
-    }
-  ]
+  "name" : "Tony",
+  "age" : "100"
 }
